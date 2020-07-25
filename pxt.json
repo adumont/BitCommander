@@ -17,6 +17,10 @@
     "testFiles": [
         "tests.ts"
     ],
-    "yotta": {},
-    "public": true
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "yotta": {}
 }
